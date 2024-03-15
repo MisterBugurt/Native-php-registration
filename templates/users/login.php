@@ -16,7 +16,7 @@
 <div
         id="captcha-container"
         class="smart-captcha"
-        data-sitekey="ключ клиента">
+        data-sitekey="ysc1_JKg0HhFmMajwB7rROmGpjyJEGNuTawd0LCX51tY893ec9891">
 </div>
 <script src="https://smartcaptcha.yandexcloud.net/captcha.js" defer></script>
 <?php include __DIR__ . '/../footer.php'; ?>
