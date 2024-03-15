@@ -7,7 +7,6 @@ use MyProject\Services\Db;
 
 abstract class ActiveRecordEntity
 {
-    private const SMARTCAPTCHA_SERVER_KEY = 'ysc2_JKg0HhFmMajwB7rROmGp1AjoDt1UxECMwXqGsc995f4d485c';
 
     public $id;
 
