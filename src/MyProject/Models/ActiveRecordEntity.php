@@ -144,7 +144,7 @@ abstract class ActiveRecordEntity
     {
         $ch = curl_init();
         $args = http_build_query([
-            "secret" => 'ysc2_JKg0HhFmMajwB7rROmGp1AjoDt1UxECMwXqGsc995f4d485c',
+            "secret" => 'ysc2_6tuUDufJmnVgyueB3UYwA4Wd1adPfy045N1SOKUS9f80f8ea',
             "token" => $token,
         ]);
         curl_setopt($ch, CURLOPT_URL, "https://smartcaptcha.yandexcloud.net/validate?$args");

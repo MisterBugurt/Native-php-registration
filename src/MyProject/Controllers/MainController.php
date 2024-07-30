@@ -8,6 +8,5 @@ class MainController extends AbstractController
     {
         $this->view->renderHtml('main/main.php');
     }
-
 }
 
